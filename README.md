@@ -1,4 +1,7 @@
-sosi_to_kml
+SOSI to KML
 ===========
 
-Convert .sos to .kml
+A basic .sos to .kml converter 
+
+http://en.wikipedia.org/wiki/SOSI
+https://developers.google.com/kml/documentation/
